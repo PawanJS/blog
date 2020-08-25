@@ -50,7 +50,7 @@ h2 {
 }
 .blog-post p,
 .another-post {
-  line-height: 2;
+  line-height: 150%;
 }
 .clear-text::after {
   content: "";
